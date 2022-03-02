@@ -73,3 +73,7 @@ Scenario: questão 14-F-1
     And kkakakaka
     Then rsrsrsrs
 
+Scenario: questão 14-F-2
+    Given lalsalda
+    And kkakakaka
+    Then rsrsrsrs
